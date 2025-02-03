@@ -3,12 +3,11 @@ html, body {
     background-color: #3c415e;
 }
 
-#master {
-    height: 75%;
+.master {
+    height: 100%;
     vertical-align: baseline;
     padding-top: 10%;
 }
-
 #root {
     height: 100%;
 }
